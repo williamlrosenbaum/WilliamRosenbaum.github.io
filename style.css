@@ -1,0 +1,135 @@
+
+
+li{
+    display: inline;
+    color: rgb(247, 70, 70);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3a3a3a;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+header {
+    background-color:#333;
+    color: white;
+    height: 60px;
+    vertical-align: baseline;
+    text-indent:15px;
+    vertical-align: bottom;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.graycentered {
+    text-align: center;
+    margin-top: 100px;
+    background-color: #333;
+    width: 500px;
+    color: white;
+    position:fixed ;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.headerdiv{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 60;
+    background-color: #333;
+    width: 500px;
+    color: white;
+    position:fixed ;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.hobbydiv{
+    margin-top: 250px;
+    text-align: center;
+    font-size: 60;
+    background-color: #333;
+    width: 500px;
+    color: white;
+    position:fixed ;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Times New Roman', Times, serif;
+}
+
+iframe{
+    margin-top: 100;
+}
+
+.centeredh1{text-align:center}
+
+.education{
+  margin-top: 200px;
+    text-align: center;
+    font-size: 60;
+    background-color: #333;
+    width: 450px;
+    height: 300px;
+    color: white;
+    position:fixed ;
+   margin-left: 50px;
+    font-family:'Times New Roman', Times, serif;
+    overflow:scroll;
+    overflow-x:hidden;
+}
+
+.experience{
+  margin-top: 200px;
+    text-align: center;
+    font-size: 60;
+    background-color: #333;
+    width: 450px;
+    height: 300px;
+    color: white;
+    position:fixed ;
+   margin-left: 540px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+.educationlist{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.middle{
+  padding:30px;
+}
+
+.skills{
+  margin-top: 200px;
+  text-align: center;
+  font-size: 60;
+  background-color: #333;
+  width: 450px;
+  height: 300px;
+  color: white;
+  position:fixed ;
+ margin-left: 1040px;
+  font-family:'Times New Roman', Times, serif;
+}

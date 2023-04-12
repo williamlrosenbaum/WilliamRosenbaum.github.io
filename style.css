@@ -66,7 +66,7 @@ header {
 }
 
 .hobbydiv{
-    margin-top: 250px;
+    margin-top: 160px;
     text-align: center;
     font-size: 60;
     background-color: #333;
@@ -132,4 +132,24 @@ iframe{
   position:fixed ;
  margin-left: 1040px;
   font-family:'Times New Roman', Times, serif;
+}
+
+.hobbydiv2{
+  margin-top: 300px;
+    text-align: center;
+    font-size: 60;
+    background-color: #333;
+    width: 500px;
+    color: white;
+    position:fixed ;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+   
+
+d{
+  text-align: right;
 }
